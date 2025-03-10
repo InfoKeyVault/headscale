@@ -1,0 +1,4 @@
+[submodule "upstream"]
+	path = upstream
+	url = https://github.com/juanfont/headscale.git
+	branch = v0.25.1
